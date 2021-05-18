@@ -26,5 +26,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rack-test"
   
   spec.add_dependency "jwt"
-  spec.add_dependency "omniauth", "~> 1.1"
+  spec.add_dependency "omniauth", "~> 2.0"
 end
